@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: springboot-mybatis :: ￦ﾕﾴ￥ﾐﾈ Mybatis Demo
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: jm
+Built-By: ￥ﾅﾵLOVE￧ﾎﾲ
 Implementation-Vendor-Id: springboot
 Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/springboot-m

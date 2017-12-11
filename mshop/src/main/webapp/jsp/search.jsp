@@ -16,9 +16,9 @@
 <head>
 <meta http-equiv="Cache-Control" content="max-age=300" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>${query} - 商品搜索 - 淘淘</title>
-<meta name="Keywords" content="java,淘淘java" />
-<meta name="description" content="在淘淘中找到了29910件java的类似商品，其中包含了“图书”，“电子书”，“教育音像”，“骑行运动”等类型的java的商品。" />
+<title>${query} - 商品搜索 - 远通</title>
+<meta name="Keywords" content="java,远通java" />
+<meta name="description" content="在远通中找到了29910件java的类似商品，其中包含了“图书”，“电子书”，“教育音像”，“骑行运动”等类型的java的商品。" />
 <link rel="stylesheet" type="text/css" href="<%=basePath%>css/base.css" media="all" />
 <link rel="stylesheet" type="text/css" href="<%=basePath%>css/psearch20131008.css" media="all" />
 <link rel="stylesheet" type="text/css" href="<%=basePath%>css/psearch.onebox.css" media="all" />
@@ -62,10 +62,10 @@
 		</a>
 	</div>
 	<div class="p-price">
-		<i>淘淘价：</i>
+		<i>远通价：</i>
 		<strong>￥<fmt:formatNumber groupingUsed="false" maxFractionDigits="2" minFractionDigits="2" value="${item.price / 100 }"/></strong>
 	</div>
-	<div class="service">由 淘淘 发货</div>
+	<div class="service">由 远通 发货</div>
 	<div class="extra">
 		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
 	</div>

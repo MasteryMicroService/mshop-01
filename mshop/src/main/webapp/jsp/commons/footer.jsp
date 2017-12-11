@@ -50,9 +50,9 @@
 				<div><a href="http://help.jd.com/help/question-79.html" target="_blank">夺宝岛</a></div>
 				<div><a href="http://help.jd.com/help/question-86.html" target="_blank">DIY装机</a></div>
 				<div><a href="http://fuwu.jd.com/" target="_blank" rel="nofollow">延保服务</a></div>
-				<div><a href="http://giftcard.jd.com/market/index.action" target="_blank" rel="nofollow">淘淘E卡</a></div>
+				<div><a href="http://giftcard.jd.com/market/index.action" target="_blank" rel="nofollow">远通E卡</a></div>
 				<div><a href="http://help.jd.com/help/question-91.html" target="_blank" rel="nofollow">节能补贴</a></div>
-				<div><a href="http://mobile.jd.com/" target="_blank" rel="nofollow">淘淘通信</a></div>
+				<div><a href="http://mobile.jd.com/" target="_blank" rel="nofollow">远通通信</a></div>
 			</dd>
 		</dl>
 		<div class="fr">
